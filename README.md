@@ -1,8 +1,17 @@
 # Personal-Blog
-Personal Blog created using HTML, CSS, JS, Node.js (Express, EJS)
+`Personal Blog created using HTML, CSS, JS, Node.js (Express, EJS)`
 
-Step 1: CLone the Project
-Step 2: Type: "npm install" in the command line
-Step 3: Run "node app.js"
-Step 4: Search "localhost:3000" on browser
-Step 5: Explore
+
+<h3>Steps to Install and Run the Project: </h3>
+<ul>
+  <li>Step 1: CLone the Project</li>
+  <li>Step 2: Type: "npm install" in the command line</li>
+  <li>Step 3: Run "node app.js"</li>
+  <li>Step 4: Search "localhost:3000" on browser</li>
+  <li>Step 5: Explore</li>
+</ul>
+
+
+
+
+
